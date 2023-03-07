@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/github.io/nameit/static/css/main.c68ad538.css",
+    "main.js": "/github.io/nameit/static/js/main.56364d5d.js",
+    "index.html": "/github.io/nameit/index.html",
+    "main.c68ad538.css.map": "/github.io/nameit/static/css/main.c68ad538.css.map",
+    "main.56364d5d.js.map": "/github.io/nameit/static/js/main.56364d5d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c68ad538.css",
+    "static/js/main.56364d5d.js"
+  ]
+}
